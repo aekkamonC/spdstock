@@ -1,1 +1,1 @@
-<?php /* login logic here */ ?>
+<?php // login.php content ?>

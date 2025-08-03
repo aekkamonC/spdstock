@@ -1,1 +1,1 @@
-<?php /* user dashboard */ ?>
+<?php // dashboard_user.php content ?>

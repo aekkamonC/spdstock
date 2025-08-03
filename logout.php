@@ -1,1 +1,1 @@
-<?php // This is a placeholder for logout.php ?>
+<?php // logout.php content ?>

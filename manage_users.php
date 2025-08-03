@@ -1,1 +1,1 @@
-<?php /* manage users */ ?>
+<?php // manage_users.php content ?>

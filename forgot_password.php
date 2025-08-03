@@ -1,1 +1,1 @@
-<?php /* forgot password form */ ?>
+<?php // forgot_password.php content ?>

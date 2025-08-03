@@ -1,1 +1,1 @@
-<?php /* add stock logic */ ?>
+<?php // item_info.php content ?>

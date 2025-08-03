@@ -1,0 +1,1 @@
+-- SQL schema for SPD Stock system

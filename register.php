@@ -1,1 +1,1 @@
-<?php /* register user logic with role=user */ ?>
+<?php // register.php content ?>

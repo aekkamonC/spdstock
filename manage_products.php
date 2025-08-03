@@ -1,1 +1,1 @@
-<?php /* CRUD product logic */ ?>
+<?php // manage_products.php content ?>

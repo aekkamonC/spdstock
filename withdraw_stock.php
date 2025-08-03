@@ -1,1 +1,1 @@
-<?php /* withdraw stock logic */ ?>
+<?php // withdraw_stock.php content ?>

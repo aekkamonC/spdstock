@@ -1,1 +1,1 @@
-<?php /* approve requests */ ?>
+<?php // approve_requests.php content ?>

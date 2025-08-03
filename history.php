@@ -1,1 +1,1 @@
-<?php /* history info */ ?>
+<?php // history.php content ?>
