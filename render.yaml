@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: spdstock
+    env: node
+    buildCommand: ""
+    startCommand: "php -S 0.0.0.0:10000 -t ."
+    plan: free
+    branch: main
+    rootDir: .
