@@ -1,1 +1,1 @@
-<?php // This is a placeholder for login.php ?>
+<?php /* login logic here */ ?>

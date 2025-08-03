@@ -1,0 +1,1 @@
+<?php /* reset password handler */ ?>

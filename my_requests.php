@@ -1,1 +1,1 @@
-<?php // This is a placeholder for my_requests.php ?>
+<?php /* view user requests */ ?>
