@@ -1,1 +1,3 @@
-<?php // This is a placeholder for index.php ?>
+<?php
+echo "ระบบ SPD Stock พร้อมใช้งานแล้ว!";
+?>
